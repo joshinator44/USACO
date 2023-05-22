@@ -1,0 +1,9 @@
+while loop to interate over the line
+as soon as you hit one with dave 500 3
+the next 3 columns are who has the money
+use a for loop
+for 3 people
+add balances 
+add counter to the 
+iterate over the data
+dont double count the rows
